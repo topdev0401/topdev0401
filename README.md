@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Web & Blockchain Developer
+### Full stack web Developer
 
 Full stack developer with 6+ years of experience in both front-end and back-end development, and professional website and application development. I’m very familiar with website and app development and spearheaded successful build of websites in MERN stack, Django as a backend framework in large projects. I'm very confident with my skills and experience in web development and would be happy to do my best on my client’s project.
 
