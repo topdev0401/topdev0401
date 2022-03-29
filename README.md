@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Full stack web Developer
+### Full Stack Web Developer
 
 Full stack developer with 6+ years of experience in both front-end and back-end development, and professional website and application development. I’m very familiar with website and app development and spearheaded successful build of websites in MERN stack, Django as a backend framework in large projects. I'm very confident with my skills and experience in web development and would be happy to do my best on my client’s project.
 
@@ -12,7 +12,7 @@ I have a lot of experience with Web/Application Development and my major stack i
 
 
 <h1 align="center"></h1>
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
 <img height="150px" />
 <br/>  
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
