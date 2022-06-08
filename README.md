@@ -8,7 +8,7 @@ I have a lot of experience with Web/Application Development and my major stack i
 - Good experience in Agile/Scrum Software Development Methodology and team collaboration in Slack and Jira
 - I have good communication skills in English
 
-####      ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Three.js-blue) ![](https://img.shields.io/badge/Smart%20Contracts-blue) ![](https://img.shields.io/badge/Cryptocurrency-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue)
+####      ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Vue-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Flask-blue) ![](https://img.shields.io/badge/Node.js-blue) ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Strapi-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue)
 
 
 <h1 align="center"></h1>
