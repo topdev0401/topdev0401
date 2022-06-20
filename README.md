@@ -1,10 +1,7 @@
 ### Hi there 👋
 ### Full Stack Web Developer
 
-Full stack developer with 6+ years of experience in both front-end and back-end development, and professional website and application development. I’m very familiar with website and app development and spearheaded successful build of websites in MERN stack, Django as a backend framework in large projects. I'm very confident with my skills and experience in web development and would be happy to do my best on my client’s project.
-
-I have a lot of experience with Web/Application Development and my major stack is the MERN stack. I can make sure that I’d be the perfect developer for your project with my professional skills and experience.
-
+Efficient Full Stack Developer with 5 years of experience in web development. Strong experience in Javascript Engineering in both F/E and B/E. Worked on 7+ large projects with professional teams and love to work with startups and small companies. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
 - Good experience in Agile/Scrum Software Development Methodology and team collaboration in Slack and Jira
 - I have good communication skills in English
 
