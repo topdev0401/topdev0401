@@ -46,7 +46,7 @@ Efficient Full Stack Developer with 5 years of experience in web development. St
   </tr>
 </table>
 
-## My Frontend Development Service will be
+## <h1 color="red">My Frontend Development Service will be</h1>
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
@@ -71,7 +71,7 @@ Efficient Full Stack Developer with 5 years of experience in web development. St
 
 </div>
 
-## My Backend Development Service will be
+## <h1 color="red">My Backend Development Service will be</h1>
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
