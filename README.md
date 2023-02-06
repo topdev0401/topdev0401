@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Full Stack Web Developer
 
-Efficient Full Stack Developer with 5 years of experience in web development. Strong experience in Javascript Engineering in both F/E and B/E. Worked on 7+ large projects with professional teams and love to work with startups and small companies. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
+Efficient Full Stack Developer with 6 years of experience in web development. Strong experience in Javascript Engineering in both F/E and B/E. Worked on 7+ large projects with professional teams and love to work with startups and small companies. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
 - Good experience in Agile/Scrum Software Development Methodology and team collaboration in Slack and Jira
 - I have good communication skills in English
 
